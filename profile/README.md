@@ -10,5 +10,5 @@ Owned by [Kale Ko](https://github.com/Kale-Ko)
 You can join our server using any version of minecraft at `play.evercraft.ga`
 
 **Contact us:**\
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/fEccEcqHwR)
 [![Email](https://img.shields.io/badge/Email-C71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@evercraft.ga)
